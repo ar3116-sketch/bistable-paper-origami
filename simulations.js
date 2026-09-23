@@ -1,4 +1,4 @@
-/* Replay saved solver results. No physics or new optimization runs in this UI. */
+/* Replay recorded search results. */
 (() => {
   'use strict';
   const $ = id => document.getElementById(id);
@@ -37,7 +37,7 @@
     }
     Object.values(s.tabs||{}).forEach(t=>path(t.concat([t[0]]),{fill:'#c9e8df',stroke:'#132d3e','stroke-width':1.1}));
     svg.append(element('text',{x:28,y:341,fill:'#506773','font-size':14},'Red: mountain    Blue: valley    Black: boundary / cut    Green: overlap'));
-    $('search-pattern-note').textContent=final?'Final body placement on US Letter; one full-facet overlap.':s.body_pieces===2?'One of two body pieces is shown. Display scale changes between candidates.':r.outline_only?'Outline and relief geometry reconstructed from recorded parameters; setup failed before tab geometry was archived.':'Recorded candidate geometry. Display scales vary; use the printable PDF for fabrication.';
+    $('search-pattern-note').textContent=final?'Final body placement on US Letter; one full-facet overlap.':s.body_pieces===2?'One of two body pieces; display scales vary.':r.outline_only?'Reconstructed outline; tab geometry was not archived for this rejected candidate.':'Candidate geometry; printable dimensions are provided in the templates.';
   }
   function render(){
     const r=rows[index],s=r.spec;
