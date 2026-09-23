@@ -1,0 +1,68 @@
+[
+  {
+    "n": 1,
+    "key": "pagano2016",
+    "short": "Pagano et al., 2016",
+    "title": "Multi-Stable Origami Structure for Crawling Locomotion",
+    "authors": "Pagano, A., Leung, B., Chien, B., Yan, T., Wissa, A., & Tawfick, S.",
+    "venue": "ASME SMASIS2016, V002T06A005",
+    "doi": "10.1115/SMASIS2016-9071",
+    "pdf": "https://bamlab.princeton.edu/_files/ugd/8339e9_d666ae931c024df2a0208da67249989c.pdf",
+    "pdf_pages": 10
+  },
+  {
+    "n": 2,
+    "key": "silverberg2014",
+    "short": "Silverberg et al., 2014",
+    "title": "Using origami design principles to fold reprogrammable mechanical metamaterials",
+    "authors": "Silverberg, J. L., Evans, A. A., McLeod, L., Hayward, R. C., Hull, T., Santangelo, C. D., & Cohen, I.",
+    "venue": "Science 345(6197), 647\u2013650",
+    "doi": "10.1126/science.1252876",
+    "pdf": "https://cohengroup.ccmr.cornell.edu/userfiles/pubs/Silverberg-Origami.pdf",
+    "pdf_pages": 5
+  },
+  {
+    "n": 3,
+    "key": "mirzajanzadeh2025",
+    "short": "Mirzajanzadeh & Pasini, 2025",
+    "title": "Reprogrammable curved-straight origami: Multimorphability and volumetric tunability",
+    "authors": "Mirzajanzadeh, M., & Pasini, D.",
+    "venue": "Science Advances 11(17), eadu4678",
+    "doi": "10.1126/sciadv.adu4678",
+    "pdf": "https://pdfs.semanticscholar.org/700f/efe8d0663d81dc8a5bc28082db476a0ac7ef.pdf",
+    "pdf_pages": 12
+  },
+  {
+    "n": 4,
+    "key": "schenk2013",
+    "short": "Schenk & Guest, 2013",
+    "title": "Geometry of Miura-folded metamaterials",
+    "authors": "Schenk, M., & Guest, S. D.",
+    "venue": "PNAS 110(9), 3276\u20133281",
+    "doi": "10.1073/pnas.1217998110",
+    "pdf": "https://www-g.eng.cam.ac.uk/advancedstructures/files/pdf/2013GuestD.pdf",
+    "pdf_pages": 6
+  },
+  {
+    "n": 5,
+    "key": "waitukaitis2015",
+    "short": "Waitukaitis et al., 2015",
+    "title": "Origami Multistability: From Single Vertices to Metasheets",
+    "authors": "Waitukaitis, S., Menaut, R., Chen, B. G., & van Hecke, M.",
+    "venue": "Physical Review Letters 114, 055503; linked PDF is the arXiv manuscript",
+    "doi": "10.1103/PhysRevLett.114.055503",
+    "pdf": "https://arxiv.org/pdf/1408.1607",
+    "pdf_pages": 5
+  },
+  {
+    "n": 6,
+    "key": "senderovich2026",
+    "short": "Senderovich et al., 2026",
+    "title": "Beyond Crease Geometry: Multistability in Origami-Inspired Structures through Local Fold Architectures",
+    "authors": "Senderovich, S., Ben-Abu, E., Elbaz, S., Zemah, N., Zigelman, A., & Gat, A. D.",
+    "venue": "arXiv:2609.05492; preprint",
+    "doi": "10.48550/arXiv.2609.05492",
+    "pdf": "https://arxiv.org/pdf/2609.05492",
+    "pdf_pages": 20
+  }
+]
